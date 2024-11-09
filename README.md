@@ -1,7 +1,3 @@
-Certainly! Here's the enhanced and professional GitHub description for **ProxCode** with the URL prominently featured and enriched with emojis:
-
----
-
 # ProxCode 🌟
 
 🔗 [**Visit ProxCode**](https://proxcode.netlify.app/) 
@@ -54,8 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Give **ProxCode** a try today and elevate your code presentation to the next level! 🚀
 
-If you have any questions or need support, feel free to [open an issue](https://github.com/yourusername/proxcode/issues) on our GitHub repository.
-
----
-
-Feel free to customize any sections further to better fit your project's specifics!
+If you have any questions or need support, feel free to [open an issue](https://github.com/Proxlight/proxcode/issues) on our GitHub repository.
